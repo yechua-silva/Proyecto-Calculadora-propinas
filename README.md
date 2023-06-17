@@ -1,5 +1,9 @@
 <h1>Calculadora de propinas 🍖🧮</h1>
 
+![Reservando hora y mesa](img/1.png "Resevando hora y mesa")
+
+![Reservando hora y mesa](img/2.png "Resevando hora y mesa")
+
 ## Descripción 
 
 Este proyecto es una aplicación que combina diferentes funcionalidades para mejorar la experiencia en un restaurante. La aplicación incluye una calculadora de propinas que permite a los usuarios calcular la propina adecuada según el monto total de su cuenta. Además, ofrece la opción de reservar una mesa, permitiendo a los usuarios seleccionar una fecha y hora para su visita.
