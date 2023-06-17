@@ -31,3 +31,6 @@ En resumen, este proyecto combina el uso de funciones asincrónicas, consultas a
 
 * [LinkedIn](https://www.linkedin.com/in/yechua-silva/)
 
+
+## Contratación
+Si estás interesado en contratarme, puedes ponerte en contacto conmigo escribiendo a yechua-silva@outlook.cl para cualquier consulta o solicitud.
