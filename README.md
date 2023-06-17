@@ -2,7 +2,7 @@
 
 ![Reservando hora y mesa](img/1.png "Resevando hora y mesa")
 
-![Reservando hora y mesa](img/2.png "Resevando hora y mesa")
+![Viendo el total y productos seleccionados](img/2.png "Viendo el total y productos seleccionados")
 
 ## Descripción 
 
